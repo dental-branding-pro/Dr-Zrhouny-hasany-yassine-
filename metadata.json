@@ -1,0 +1,6 @@
+{
+  "name": "Dental Branding Pro",
+  "description": "Solution n°1 de marketing digital pour cabinets dentaires et chirurgiens-dentistes au Maroc. Création de site web médical interactif, SEO local Google Maps, carte DentaLink & automatisation WhatsApp sans abonnement pour 2000 DH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
